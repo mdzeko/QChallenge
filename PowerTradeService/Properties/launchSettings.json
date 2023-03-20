@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "PowerTradeService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
